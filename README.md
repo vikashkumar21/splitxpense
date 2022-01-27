@@ -7,3 +7,5 @@ Create group
 Create expense
 Create group expense
 Settle group expense
+
+Technologies used: Springboot, Java, Postgres
